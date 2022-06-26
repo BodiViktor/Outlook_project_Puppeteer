@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "puppeteer": "^15.0.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^103.0.0",
+    "cucumber": "^6.0.7",
+    "cucumber-pretty": "^6.0.1",
+    "nightwatch": "^1.7.13",
+    "nightwatch-api": "^3.0.2"
+  }
+}
